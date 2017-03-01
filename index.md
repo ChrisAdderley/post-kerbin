@@ -1,7 +1,7 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
+title: Post-Kerbin Mining Corporation
+tagline: Mod suite for Kerbal Space Program
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 

@@ -8,14 +8,13 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
-author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
-  feedburner : nil
+theme: jekyll-theme-slate
 
+title : Post-Kerbin Mining Corporation
+author :
+  name : Chris Adderley
+  github : ChrisAdderley
+  
 production_url : http://chrisadderley.github.io/post-kerbin
 
 # Tell Github to use the kramdown markdown interpreter
@@ -102,5 +101,3 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-
-theme: jekyll-theme-minimal
